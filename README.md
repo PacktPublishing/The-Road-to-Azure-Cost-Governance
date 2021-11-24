@@ -1,2 +1,2 @@
-# Azure-Cost-Governance-Architect
-Azure Cost Governance Architect, published by Packt
+# Road to Azure Cost Governance
+Road to Azure Cost Governance, published by Packt
