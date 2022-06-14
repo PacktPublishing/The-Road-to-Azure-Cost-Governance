@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B17965?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # The Road to Azure Cost Governance 
 
 <a href="https://www.packtpub.com/product/the-road-to-azure-cost-governance/9781803246444?utm_source=github&utm_medium=repository&utm_campaign="><img src="https://static.packt-cdn.com/products/9781803246444/cover/smaller" alt="The Road to Azure Cost Governance " height="256px" align="right"></a>
